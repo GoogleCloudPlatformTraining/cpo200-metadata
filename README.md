@@ -1,2 +1,2 @@
 # cpo200-metadata
-A simple shell script to demonstrate the use of and access to metadata from Google Compute Engine.
+Used in the CPO200 course - A simple shell script to demonstrate the use of and access to metadata from Google Compute Engine.
